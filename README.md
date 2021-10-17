@@ -1,4 +1,4 @@
-### minitalk
+## minitalk
 
 project of 42 school where it is necessary to make a communication program in the form of a client and a server using only signals SIGUSR1 and SIGUSR2. the project was made on linux.
 
@@ -8,7 +8,7 @@ the project was made in accordance with the school design code standard in the C
 
 ![mini](mini.png)
 
-## how to use
+### how to use
 the server must be started first, and then the client with the server pid.
 ```
 make

@@ -4,7 +4,9 @@ project of 42 school where it is necessary to make a communication program in th
 
 the server is able to receive strings from multiple clients in a row also it works with unicode.
 
-the project was made in accordance with the school design code standard in the C language on linux.
+the project was made in accordance with the school design code standard in the C language.
+
+the project was made on linux.
 
 ![mini](mini.png)
 

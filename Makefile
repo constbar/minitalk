@@ -1,16 +1,15 @@
+SERV		=	server
+CLNT		=	client
+
 CC			=	gcc
 CFLAGS		=	-Wall -Werror -Wextra
 RM			=	rm -f
-
-SERV		=	server
-CLNT		=	client
 
 SERVU		=	server.c utils.c 
 CLNTU		=	client.c utils.c 
 
 OBJS1		=	$(SERVU:.c=.o)
 OBJS2		=	$(CLNTU:.c=.o)
-
 
 all			:	$(SERV) $(CLNT)
 

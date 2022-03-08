@@ -6,7 +6,7 @@ the server is able to receive strings from multiple clients in a row also it wor
 
 the project was made in accordance with the school design code standard in the C language.
 
-![mini](mini.png)
+![](mini.gif)
 
 ### how to use
 the server must be started first, and then the client with the server pid.
